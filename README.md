@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy David Muñoz
 
-<!--
-**david7169/david7169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un entusiasta de la tecnología, el aprendizaje constante y la exploración del mundo digital. Actualmente me estoy formando como **QA Engineer** 🧪 después de completar un bootcamp en **TripleTen**, donde adquirí experiencia práctica con herramientas como:
 
-Here are some ideas to get you started:
+- 💻 SQL  
+- 📬 Postman  
+- 🤖 Android Studio  
+- 📊 Microsoft Excel  
+- 🐞 Jira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Perfil Profesional
+
+🔎 Me gusta identificar errores, entender cómo funcionan los sistemas y asegurar la calidad del software.  
+📈 Siempre estoy buscando mejorar y mantenerme actualizado con las últimas tecnologías.  
+🧠 Estoy aprendiendo inglés (nivel B1) para expandir mis oportunidades globales.
+
+---
+
+## 🎮 Intereses
+
+Además de mi pasión por la informática y la tecnología:
+
+- 📚 Me encanta **leer**, especialmente temas de desarrollo personal, finanzas y ciencia ficción.  
+- 🎮 Soy fan de los **videojuegos**, me ayudan a pensar de forma crítica y estratégica.  
+- 🚀 Me gusta **aprender cada día algo nuevo**, desde nuevas herramientas hasta lenguajes de programación.
+
+---
+
+## 📫 Conectemos
+
+Si quieres hablar sobre QA, tecnología o videojuegos, ¡escríbeme!  
+Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/tuusuario) o seguir mis proyectos aquí en GitHub 👇
+
+---
+
+### ¡Gracias por visitar mi perfil! ⭐
