@@ -1,6 +1,7 @@
-# 👋 ¡Hola! Soy David Muñoz
+# 👋 Hi there! I'm David Muñoz
 
-Soy un entusiasta de la tecnología, el aprendizaje constante y la exploración del mundo digital. Actualmente me estoy formando como **QA Engineer** 🧪 después de completar un bootcamp en **TripleTen**, donde adquirí experiencia práctica con herramientas como:
+I'm passionate about technology, continuous learning, and exploring the digital world.  
+Currently training as a **QA Engineer** 🧪 after completing a tech bootcamp at **TripleTen**, where I gained hands-on experience with tools like:
 
 - 💻 SQL  
 - 📬 Postman  
@@ -10,29 +11,29 @@ Soy un entusiasta de la tecnología, el aprendizaje constante y la exploración 
 
 ---
 
-## 💼 Perfil Profesional
+## 💼 Professional Profile
 
-🔎 Me gusta identificar errores, entender cómo funcionan los sistemas y asegurar la calidad del software.  
-📈 Siempre estoy buscando mejorar y mantenerme actualizado con las últimas tecnologías.  
-🧠 Estoy aprendiendo inglés (nivel B1) para expandir mis oportunidades globales.
-
----
-
-## 🎮 Intereses
-
-Además de mi pasión por la informática y la tecnología:
-
-- 📚 Me encanta **leer**, especialmente temas de desarrollo personal, finanzas y ciencia ficción.  
-- 🎮 Soy fan de los **videojuegos**, me ayudan a pensar de forma crítica y estratégica.  
-- 🚀 Me gusta **aprender cada día algo nuevo**, desde nuevas herramientas hasta lenguajes de programación.
+🔍 I enjoy identifying bugs, understanding how systems work, and ensuring software quality.  
+📈 I’m always looking to improve and stay up to date with the latest technologies.  
+🧠 I'm learning English (B1 level) to expand my global opportunities.
 
 ---
 
-## 📫 Conectemos
+## 🎮 Interests
 
-Si quieres hablar sobre QA, tecnología o videojuegos, ¡escríbeme!  
-Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/tuusuario) o seguir mis proyectos aquí en GitHub 👇
+Besides my passion for tech and QA:
+
+- 📚 I love **reading**, especially about personal growth and science fiction.  
+- 🎮 I'm a fan of **video games** — they help me think critically and strategically.  
+- 🚀 I'm always eager to **learn something new**, from tools to programming languages.
 
 ---
 
-### ¡Gracias por visitar mi perfil! ⭐
+## 📫 Let’s Connect
+
+Want to chat about QA, tech, or games? Feel free to reach out!  
+You can find me on [LinkedIn](https://www.linkedin.com/in/yourprofile) or explore my projects here on GitHub 👇
+
+---
+
+### Thanks for stopping by! ⭐
