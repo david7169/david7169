@@ -1,4 +1,8 @@
-# 👋 ¡Hola! Soy David Muñoz
+# 👋 ¡Hola! Soy David Muñoz  
+Hello! I'm David Muñoz
+
+
+## 🇪🇸 Español
 
 Soy un entusiasta de la tecnología, el aprendizaje constante y la exploración del mundo digital. Actualmente me estoy formando como **QA Engineer** 🧪 después de completar un bootcamp en **TripleTen**, donde adquirí experiencia práctica con herramientas como:
 
