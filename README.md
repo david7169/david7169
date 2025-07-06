@@ -1,5 +1,4 @@
-# 👋 ¡Hola! Soy David Muñoz  
-Hello! I'm David Muñoz
+# 👋 ¡Hola! Soy David Muñoz | Hello! I'm David Muñoz
 
 
 ## 🇪🇸 Español
