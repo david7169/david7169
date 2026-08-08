@@ -45,10 +45,9 @@ Además de mi pasión por la informática y la tecnología:
 Si quieres hablar sobre QA, tecnología o videojuegos, ¡escríbeme!  
 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/juan-david-mu%C3%B1oz-mejia-1b7a52318/) o seguir mis proyectos aquí en GitHub 👇
 
----
-
 ### ¡Gracias por visitar mi perfil! ⭐
 
+---
 
 <!-- SELECTOR DE IDIOMA / LANGUAGE SWITCHER -->
 <div align="right">
