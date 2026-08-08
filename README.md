@@ -1,5 +1,5 @@
 <!-- SELECTOR DE IDIOMA / LANGUAGE SWITCHER -->
-<div align="left">
+<div align="right">
   <a href="#spanish"><b>🇪🇸 Leer en Español</b></a> • 
   <a href="#english"><b>🇬🇧 Read in English</b></a>
 </div>
@@ -47,9 +47,11 @@ Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/juan-david-mu%C3%B1
 ### ¡Gracias por visitar mi perfil! ⭐
 
 ---
-
+<div align ="right">
 <a href="#spanish"><b>🇪🇸 Back to Top (Spanish)</b></a>
 <span id="english"></span>
+</div>
+
 
 # 🇬🇧 English Version
 
