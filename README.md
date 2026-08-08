@@ -1,16 +1,14 @@
 <!-- SELECTOR DE IDIOMA / LANGUAGE SWITCHER -->
-<div align="right">
-  <a href="#-versión-en-español"><b>🇪🇸 Español</b></a> | 
-  <a href="#-english-version"><b>🇬🇧 English</b></a>
-</div>
-
+<a href="#spanish"><b>🇪🇸 Leer en Español</b></a> • 
+<a href="#english"><b>🇬🇧 Read in English</b></a>
 ---
 
+<span id="spanish"></span>
+
+# 🇪🇸 Versión en Español
 
 # 👋 ¡Hola! Soy David Muñoz | Hello! I'm David Muñoz
 
-
-## 🇪🇸 Español
 
 Soy un entusiasta de la tecnología, el aprendizaje constante y la exploración del mundo digital. Actualmente me estoy formando como **QA Engineer** 🧪 después de completar un bootcamp en **TripleTen**, donde adquirí experiencia práctica con herramientas como:
 
@@ -49,14 +47,10 @@ Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/juan-david-mu%C3%B1
 
 ---
 
-<!-- SELECTOR DE IDIOMA / LANGUAGE SWITCHER -->
-<div align="right">
-  <a href="#-versión-en-español"><b>🇪🇸 Español</b></a> | 
-  <a href="#-english-version"><b>🇬🇧 English</b></a>
-</div>
+<a href="#spanish"><b>🇪🇸 Back to Top (Spanish)</b></a>
+<span id="english"></span>
 
-
-## 🇺🇸 English
+# 🇬🇧 English Version
 
 # 👋 Hi there! I'm David Muñoz
 
