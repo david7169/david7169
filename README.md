@@ -1,3 +1,12 @@
+<!-- SELECTOR DE IDIOMA / LANGUAGE SWITCHER -->
+<div align="right">
+  <a href="#-versión-en-español"><b>🇪🇸 Español</b></a> | 
+  <a href="#-english-version"><b>🇬🇧 English</b></a>
+</div>
+
+---
+
+
 # 👋 ¡Hola! Soy David Muñoz | Hello! I'm David Muñoz
 
 
