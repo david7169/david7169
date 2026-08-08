@@ -1,7 +1,8 @@
 <!-- SELECTOR DE IDIOMA / LANGUAGE SWITCHER -->
-<a href="#spanish"><b>🇪🇸 Leer en Español</b></a> • 
-<a href="#english"><b>🇬🇧 Read in English</b></a>
----
+<div align="left">
+  <a href="#spanish"><b>🇪🇸 Leer en Español</b></a> • 
+  <a href="#english"><b>🇬🇧 Read in English</b></a>
+</div>
 
 <span id="spanish"></span>
 
