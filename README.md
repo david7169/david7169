@@ -55,8 +55,6 @@ Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/juan-david-mu%C3%B1
   <a href="#-english-version"><b>🇬🇧 English</b></a>
 </div>
 
----
-
 
 ## 🇺🇸 English
 
